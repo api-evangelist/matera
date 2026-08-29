@@ -7,6 +7,17 @@ description: 'Matera is a French proptech company providing a digital platform f
   plus embedded services such as building insurance, legal protection, and a Treezor-powered
   payment account. It serves 150,000+ co-owners across France and is a certified B Corporation.'
 url: https://raw.githubusercontent.com/api-evangelist/matera/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
