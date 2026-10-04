@@ -44,7 +44,7 @@ tags:
 - Business Applications
 - PropTech
 - Property Management
-- Real-Estate
+- Real Estate
 - Condominium Management
 - Fintech
 - France
@@ -59,6 +59,7 @@ tags_raw:
 - Fintech
 - France
 - SaaS
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
